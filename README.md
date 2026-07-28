@@ -1,0 +1,2 @@
+# Background-Color-Switcher-using-the-DOM-demonstrates-
+Developed an interactive web application using HTML, CSS, and JavaScript. Implemented DOM manipulation to dynamically change the webpage background color based on user interactions. Used event listeners to handle button clicks and update UI elements in real time. Improved understanding of JavaScript events, DOM traversal, and styling through code.
